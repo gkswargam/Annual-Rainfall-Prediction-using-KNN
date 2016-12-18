@@ -1,1 +1,1 @@
-# Annual-Rainfall-Prediction-using-KNN
+In this project we have predicted annual rainfall in Missouri state using KNN regression model. We compiled a data set that has 10 predictors and a response variable as precipitation. We used the rain fall data of 4 neighbor states of Missouri that is Iowa, Kansas, Illinois and Arkansas which share maximum boundary with Missouri state to train our model and predict accurately.
